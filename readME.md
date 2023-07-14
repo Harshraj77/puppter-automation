@@ -39,7 +39,7 @@ Issue Faced and solved: The previous button and this button had same classname s
 
 Once done the process was similar to action 3 with "wbt" replaced with "usd" in which our currrency is the second option hence 1st was used in the options to access it.
 
-### Action 5 - Selecting the second best exchangr rate
+### Action 5 - Selecting the second best exchange rate
 Issue Faced and solved:- This section is a dynamic section and all the rates keep getting updated every 10sec and they also get reaaranged. First i let the rates be updated and for that i set a timeout of 5 sec. After that  code checks if a second div exists among the div elements with the specified class name and clicks on it if it exists. Otherwise, it logs a message indicating that the second div is not available yet.
 This way i solved the error issue if only one exchage rate is there.
 
