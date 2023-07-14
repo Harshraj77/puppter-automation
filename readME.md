@@ -1,9 +1,8 @@
-## How to start the application
-After getting the file on system and installing the node modules.
-In the terminal type "node index.js" to start the application.
-It will automatically select all the given required feilds and the browser window will be open.
-You will have to close it yourself.
+# Application Start Guide
 
-## Changing values of field 
-If you want to change the values in the field, edit the code wherever its mentioned.
-Do not edit anywhere else.
+## How to Start the Application
+
+1. Download the application files to your local system.
+2. Install the required Node.js modules by running the following command in your terminal:
+```npm install```
+3. In the terminal, type the following command to start the application:
