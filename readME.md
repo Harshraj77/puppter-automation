@@ -5,17 +5,17 @@
 1. Download the application files to your local system.
 2. Install the required Node.js modules by running the following command in your terminal: ```npm install```
 ## Step 2: Starting the Application
-1.Open your terminal.
-2.Navigate to the directory where you saved the application files.
-3.Run the following command to start the application: ```node index.js```
-4.The application will automatically select the necessary fields and open a browser window.
-5.Please note that you will need to manually close the browser window when you're done using the application.
+1. Open your terminal.
+2. Navigate to the directory where you saved the application files.
+3. Run the following command to start the application: ```node index.js```
+4. The application will automatically select the necessary fields and open a browser window.
+5. Please note that you will need to manually close the browser window when you're done using the application.
 
 ## Changing Field Values
 If you need to change the values in the fields, follow the instructions below:
 
-1.Locate the section of code where the field values are mentioned.
-2.Edit the desired values in the code.
+1. Locate the section of code where the field values are mentioned.
+2. Edit the desired values in the code.
 Take caution not to edit any other parts of the code to avoid unintended issues.
 Please ensure that you make the necessary changes only in the designated areas to maintain the functionality of the application.
 
