@@ -22,7 +22,7 @@ Please ensure that you make the necessary changes only in the designated areas t
 ## Working explanied 
 First we install puppeteer and launch it in headfull mode which means browser window opens for us when we perform all the actions.
 
-I have divided the working into 4 actions(as given in the task):
+I have divided the working into 5 actions(as given in the task):
 
 ### Action 1 -Changing in the "chain" field
 The code waits for a text input field to appear(this is achieved via use of classname), then types "Arbitrum One" into the field and presses Enter.
